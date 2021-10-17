@@ -71,7 +71,6 @@ const addToArray = function (array, string) {
     let arr=string.split('');
     let rev=arr.reverse();
     let strRev= rev.join("");
-    
     return strRev;
   };
   
